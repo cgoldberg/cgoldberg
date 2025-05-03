@@ -1,6 +1,6 @@
-### Hi, I'm Corey
+## Hi, I'm Corey
 
-#### I'm a software test engineer and open source developer from Boston, Massachusetts
+### I'm a software test engineer and open source developer from Boston, Massachusetts
 
 ----
 
