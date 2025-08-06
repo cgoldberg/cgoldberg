@@ -9,3 +9,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cgoldberg&show_icons=true&locale=en" alt="cgoldberg" /></p>
 
 ----
+
+[![GitHub Followers](https://img.shields.io/github/followers/cgoldberg?label=Follow&style=social)](https://github.com/cgoldberg)
