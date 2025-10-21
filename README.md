@@ -22,3 +22,4 @@
 ----
 
 [![GitHub Followers](https://img.shields.io/github/followers/cgoldberg?label=Follow&style=social)](https://github.com/cgoldberg)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](http://linkedin.com/in/cgoldberg)
