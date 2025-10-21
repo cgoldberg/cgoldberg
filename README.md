@@ -7,12 +7,14 @@
 <div align="left">
   <a href="https://github.com/cgoldberg">
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=cgoldberg&layout=compact"
-        alt="Top Languages"
+      src="https://github-readme-stats.vercel.app/api?username=cgoldberg&show_icons=true&include_all_commits=true&hide_rank=true&show=reviews&hide=contribs"
+      alt="GitHub Stats"
+      align="top"
     />
     <img
-        src="https://github-readme-stats.vercel.app/api?username=cgoldberg&show_icons=true&include_all_commits=true&hide_rank=true&show=reviews&hide=contribs"
-        alt="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=cgoldberg&layout=compact"
+      alt="Top Languages"
+      align="top"
     />
   </a>
 </div>
