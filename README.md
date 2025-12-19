@@ -21,8 +21,7 @@
 <div align="left">
   <a href="https://github.com/cgoldberg">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=cgoldberg&days=30&height=36
-0&bg_color=ffffff&color=292d36&line=9ecbff&point=ec98a0&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity%20(Last%2030%20Days)"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=cgoldberg&days=30&height=360&bg_color=ffffff&color=292d36&line=9ecbff&point=ec98a0&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity%20(Last%2030%20Days)"
       alt="GitHub Activity Graph"
       align="top"
     />
