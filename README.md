@@ -1,8 +1,8 @@
 ## Hi, I'm Corey
 
-💻 **Software Test Engineer, Open Source Developer**
-🌎 **Boston, Massachusetts, USA**
-✍🏻 ***[https://cgoldberg.github.io](https://cgoldberg.github.io)***
+#### 💻 Software Test Engineer, Open Source Developer
+#### 🌎 Boston, Massachusetts, USA
+#### ✍🏻 [https://cgoldberg.github.io](https://cgoldberg.github.io)
 
 [![GitHub Followers](https://img.shields.io/github/followers/cgoldberg)](https://github.com/cgoldberg)
 [![GitHub Repos](https://img.shields.io/badge/GitHub-repos-blue)](https://github.com/cgoldberg?tab=repositories)
