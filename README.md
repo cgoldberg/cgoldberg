@@ -2,6 +2,7 @@
 
 💻 Software Test Engineer, Open Source Developer\
 🌎 Boston, Massachusetts, USA\
+:octocat: [github.com/cgoldberg](https://github.com/cgoldberg)
 ✍🏻 [cgoldberg.github.io](https://cgoldberg.github.io)
 
 [![GitHub Followers](https://img.shields.io/github/followers/cgoldberg)](https://github.com/cgoldberg)
@@ -11,15 +12,6 @@
 
 ----
 
-<div align="left">
-  <a href="https://github.com/search?q=+author%3Acgoldberg&type=pullrequests&s=updated&o=desc">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=cgoldberg&days=30&height=380&bg_color=ffffff&color=292d36&line=9ecbff&point=ec98a0&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity%20(Last%2030%20Days)"
-      alt="GitHub Activity Graph"
-      align="top"
-    />
-  </a>
-</div>
 <div align="left">
   <a href="https://github.com/search?q=+involves%3Acgoldberg&type=pullrequests&s=updated&o=desc">
     <img
@@ -32,6 +24,15 @@
     <img
       src="https://cgoldberg-github-readme-stats.vercel.app/api/top-langs?username=cgoldberg&height=600&layout=compact"
       alt="Top Languages"
+      align="top"
+    />
+  </a>
+</div>
+<div align="left">
+  <a href="https://github.com/search?q=+author%3Acgoldberg&type=pullrequests&s=updated&o=desc">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=cgoldberg&days=30&height=380&bg_color=ffffff&color=292d36&line=9ecbff&point=ec98a0&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity%20(Last%2030%20Days)"
+      alt="GitHub Activity Graph"
       align="top"
     />
   </a>
