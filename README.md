@@ -2,7 +2,7 @@
 
 💻 Software Test Engineer, Open Source Developer\
 🌎 Boston, Massachusetts, USA\
-:octocat: [github.com/cgoldberg](https://github.com/cgoldberg)
+:octocat: [github.com/cgoldberg](https://github.com/cgoldberg) \
 ✍🏻 [cgoldberg.github.io](https://cgoldberg.github.io)
 
 [![GitHub Followers](https://img.shields.io/github/followers/cgoldberg)](https://github.com/cgoldberg)
