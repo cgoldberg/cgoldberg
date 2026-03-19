@@ -26,6 +26,8 @@
   </tr>
 </table>
 
+----
+
 [![GitHub Stars](https://img.shields.io/github/stars/cgoldberg)](https://github.com/cgoldberg)
 [![GitHub Followers](https://img.shields.io/github/followers/cgoldberg)](https://github.com/cgoldberg)
 [![GitHub Repos](https://img.shields.io/badge/GitHub-repos-blue)](https://github.com/cgoldberg?tab=repositories)
