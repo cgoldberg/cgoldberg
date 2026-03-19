@@ -3,9 +3,10 @@
 
 ----
 
-🌎 Boston, Massachusetts, USA\
-:octocat: [github.com/cgoldberg](https://github.com/cgoldberg) \
-✍🏻 [cgoldberg.github.io](https://cgoldberg.github.io)
+:earth_americas: Location - Boston, Massachusetts, USA \
+:octocat: Code - [github.com/cgoldberg](https://github.com/cgoldberg) \
+:writing_hand: Blog - [cgoldberg.github.io](https://cgoldberg.github.io) \
+:bust_in_silhouette: About - [cgoldberg.github.io/about](https://cgoldberg.github.io/about)
 
 [![GitHub Stars](https://img.shields.io/github/stars/cgoldberg)](https://github.com/cgoldberg)
 [![GitHub Followers](https://img.shields.io/github/followers/cgoldberg)](https://github.com/cgoldberg)
