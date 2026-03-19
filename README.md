@@ -1,6 +1,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1600&pause=0&size=20&weight=400&color=141e44&width=500&height=110&vCenter=true&repeat=false&multiline=true&lines=Hi+%F0%9F%91%8B%2C+I%27m+Corey;-%20Human;-%20Open+Source+Developer;-%20Software+Test+Engineer)](https://github.com/cgoldberg)
 
+[![GitHub Repos](https://img.shields.io/badge/GitHub-repos-blue)](https://github.com/cgoldberg?tab=repositories)
+[![PyPI Packages](https://img.shields.io/badge/PyPI-packages-blue)](https://pypi.org/user/Corey.Goldberg)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white)](https://linkedin.com/in/cgoldberg)
+
 ----
 
 <table>
@@ -25,10 +29,6 @@
     <td><a href="https://cgoldberg.github.io/about">cgoldberg.github.io/about</a></td>
   </tr>
 </table>
-
-[![GitHub Repos](https://img.shields.io/badge/GitHub-repos-blue)](https://github.com/cgoldberg?tab=repositories)
-[![PyPI Packages](https://img.shields.io/badge/PyPI-packages-blue)](https://pypi.org/user/Corey.Goldberg)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white)](https://linkedin.com/in/cgoldberg)
 
 ----
 
