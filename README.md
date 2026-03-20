@@ -3,9 +3,9 @@
 
 ----
 
-[![PyPI Packages](https://img.shields.io/badge/PyPI-packages-blue)](https://pypi.org/user/Corey.Goldberg)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white)](https://linkedin.com/in/cgoldberg)
 
+[![PyPI Packages](https://img.shields.io/badge/PyPI-packages-blue)](https://pypi.org/user/Corey.Goldberg)
 [![GitHub Repos](https://img.shields.io/badge/GitHub-repos-blue)](https://github.com/cgoldberg?tab=repositories)
 [![GitHub Gists](https://img.shields.io/badge/GitHub-gists-blue)](https://gist.github.com/cgoldberg)
 
