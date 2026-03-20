@@ -23,12 +23,12 @@
   <tr>
     <td>:writing_hand:</td>
     <td>Blog</td>
-    <td><a href="https://cgoldberg.github.io">cgoldberg.github.io</a></td>
+    <td><a href="https://coreygoldberg.com">coreygoldberg.com</a></td>
   </tr>
   <tr>
     <td>:bust_in_silhouette:</td>
     <td>About</td>
-    <td><a href="https://cgoldberg.github.io/about">cgoldberg.github.io/about</a></td>
+    <td><a href="https://coreygoldberg.com/about">coreygoldberg.com/about</a></td>
   </tr>
 </table>
 
