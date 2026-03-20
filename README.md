@@ -31,7 +31,7 @@
     <td><a href="https://coreygoldberg.com">coreygoldberg.com</a></td>
   </tr>
   <tr>
-    <td>:bust_in_silhouette:</td>
+    <td>:man:</td>
     <td>About</td>
     <td><a href="https://coreygoldberg.com/about">coreygoldberg.com/about</a></td>
   </tr>
