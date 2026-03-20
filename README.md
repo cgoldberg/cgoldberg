@@ -7,6 +7,9 @@
 [![PyPI Packages](https://img.shields.io/badge/PyPI-packages-blue)](https://pypi.org/user/Corey.Goldberg)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white)](https://linkedin.com/in/cgoldberg)
 
+[![GitHub Stars](https://img.shields.io/github/stars/cgoldberg)](https://github.com/cgoldberg)
+[![GitHub Followers](https://img.shields.io/github/followers/cgoldberg)](https://github.com/cgoldberg)
+
 ----
 
 <table>
