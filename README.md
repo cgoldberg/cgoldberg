@@ -33,7 +33,7 @@
   <tr>
     <td>:man:</td>
     <td>About</td>
-    <td><a href="https://coreygoldberg.com/about">coreygoldberg.com/about</a></td>
+    <td><a href="https://coreygoldberg.com/about/">coreygoldberg.com/about</a></td>
   </tr>
 </table>
 
