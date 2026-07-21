@@ -48,7 +48,7 @@
       align="top"
     />
     <img
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=cgoldberg"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=cgoldberg&layout=compact&langs_count=8"
       alt="Top Languages"
       align="top"
     />
