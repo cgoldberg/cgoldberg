@@ -28,27 +28,27 @@
 
 ----
 
-[![GitHub Stars](https://img.shields.io/github/stars/cgoldberg)](https://github.com/cgoldberg)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white)](https://linkedin.com/in/cgoldberg)
-
 [![PyPI Packages](https://img.shields.io/badge/PyPI-Packages-blue)](https://pypi.org/user/Corey.Goldberg)
-[![GitHub Repos](https://img.shields.io/badge/GitHub-Repos-blue)](https://github.com/cgoldberg?tab=repositories)
-[![GitHub Gists](https://img.shields.io/badge/GitHub-Gists-blue)](https://gist.github.com/cgoldberg)
 
 ----
 
+### My GitHub Activity:
+
 [![Latest Commits](https://img.shields.io/badge/Latest-Commits-blue)](https://github.com/search?q=+author%3Acgoldberg&type=commits&s=committer-date)
 [![Latest Pull Requests](https://img.shields.io/badge/Latest-PRs-blue)](https://github.com/search?q=+involves%3Acgoldberg&type=pullrequests&s=created)
+[![GitHub Repos](https://img.shields.io/badge/GitHub-Repos-blue)](https://github.com/cgoldberg?tab=repositories)
+[![GitHub Gists](https://img.shields.io/badge/GitHub-Gists-blue)](https://gist.github.com/cgoldberg)
 
 <div align="left">
   <a href="https://github.com/cgoldberg">
     <img
-      src="https://cgoldberg-github-stats-extended.vercel.app/api?username=cgoldberg&hide_rank=true&show_icons=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&show=prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&hide=prs,issues,contribs&theme=default_repocard"
+      src="https://cgoldberg-github-stats-extended.vercel.app/api?username=cgoldberg&hide_rank=true&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats&show=prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&hide=prs,issues,contribs&theme=default_repocard"
       alt="GitHub Stats"
       align="top"
     />
     <img
-      src="https://cgoldberg-github-stats-extended.vercel.app/api/top-langs?username=cgoldberg&layout=compact&langs_count=8&theme=default_repocard"
+      src="https://cgoldberg-github-stats-extended.vercel.app/api/top-langs?username=cgoldberg&layout=compact&custom_title=Top%20Languages&langs_count=8&theme=default_repocard"
       alt="Top Languages"
       align="top"
     />
@@ -57,7 +57,7 @@
 <div align="left">
   <a href="https://github.com/cgoldberg">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=cgoldberg&days=30&height=380&bg_color=ffffff&color=292d36&line=9ecbff&point=ec98a0&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity%20(Last%2030%20Days)"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=cgoldberg&days=30&height=380&bg_color=ffffff&color=292d36&line=9ecbff&point=ec98a0&area=true&hide_border=true&custom_title=Daily%20GitHub%20Contributions%20(Last%2030%20Days)"
       alt="GitHub Activity Graph"
       align="top"
     />
