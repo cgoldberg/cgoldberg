@@ -43,7 +43,7 @@
 <div align="left">
   <a href="https://github.com/cgoldberg">
     <img
-      src="https://cgoldberg-github-stats-extended.vercel.app/api?username=cgoldberg&hide_rank=true&show_icons=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&show=reviews,prs_commented,prs_reviewed,issues_commented&hide=contribs&theme=default_repocard"
+      src="https://cgoldberg-github-stats-extended.vercel.app/api?username=cgoldberg&hide_rank=true&show_icons=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&show=prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&hide=prs,issues,contribs&theme=default_repocard"
       alt="GitHub Stats"
       align="top"
     />
