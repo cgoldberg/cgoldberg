@@ -54,7 +54,6 @@
     />
   </a>
 </div>
-<!--
 <div align="left">
   <a href="https://github.com/cgoldberg">
     <img
@@ -64,4 +63,3 @@
     />
   </a>
 </div>
--->
