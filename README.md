@@ -1,5 +1,20 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1600&pause=0&size=20&weight=400&color=141e44&width=500&height=110&vCenter=true&repeat=false&multiline=true&lines=Hi+%F0%9F%91%8B%2C+I%27m+Corey;-%20Human;-%20Open+Source+Developer;-%20Software+Test+Engineer)](https://github.com/cgoldberg)
+<a href="https://github.com/cgoldberg">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1600&pause=0&size=20&weight=400&color=0550AE&width=500&height=110&vCenter=true&repeat=false&multiline=true&lines=Hi+%F0%9F%91%8B%2C+I%27m+Corey;-%20Human;-%20Open+Source+Developer;-%20Software+Test+Engineer"
+    >
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1600&pause=0&size=20&weight=400&color=58A6FF&width=500&height=110&vCenter=true&repeat=false&multiline=true&lines=Hi+%F0%9F%91%8B%2C+I%27m+Corey;-%20Human;-%20Open+Source+Developer;-%20Software+Test+Engineer"
+    >
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1600&pause=0&size=20&weight=400&color=0550AE&width=500&height=110&vCenter=true&repeat=false&multiline=true&lines=Hi+%F0%9F%91%8B%2C+I%27m+Corey;-%20Human;-%20Open+Source+Developer;-%20Software+Test+Engineer"
+      alt="typing image"
+    >
+  </picture>
+</a>
 
 ----
 
