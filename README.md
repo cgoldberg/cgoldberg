@@ -62,11 +62,6 @@
       alt="GitHub Stats"
       align="top"
     />
-    <img
-      src="https://cgoldberg-github-stats-extended.vercel.app/api/top-langs?username=cgoldberg&layout=compact&custom_title=Top%20Languages&langs_count=8&theme=default_repocard"
-      alt="Top Languages"
-      align="top"
-    />
   </a>
 </div>
 <div align="left">
