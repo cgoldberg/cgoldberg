@@ -55,21 +55,18 @@
 [![GitHub Repos](https://img.shields.io/badge/GitHub-Repos-blue)](https://github.com/cgoldberg?tab=repositories)
 [![GitHub Gists](https://img.shields.io/badge/GitHub-Gists-blue)](https://gist.github.com/cgoldberg)
 
-<div align="left">
-  <a href="https://github.com/cgoldberg">
-    <img
-      src="https://cgoldberg-github-stats-extended.vercel.app/api?username=cgoldberg&hide_rank=true&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats&show=contributions,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&hide=prs,issues,contribs"
-      alt="GitHub Stats"
-      align="top"
-    />
-  </a>
-</div>
-<div align="left">
-  <a href="https://github.com/cgoldberg">
-    <img
-      src="https://cgoldberg-github-readme-activity-graph.vercel.app/graph?username=cgoldberg&days=30&height=380&bg_color=ffffff&color=292d36&line=9ecbff&point=ec98a0&area=true&hide_border=true&custom_title=Daily%20GitHub%20Contributions%20%28Last%2030%20Days%29"
-      alt="GitHub Activity Graph"
-      align="top"
-    />
-  </a>
-</div>
+<a href="https://github.com/cgoldberg">
+  <img
+    src="https://cgoldberg-github-stats-extended.vercel.app/api?username=cgoldberg&hide_rank=true&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats&show=contributions,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&hide=prs,issues,contribs"
+    alt="GitHub Stats"
+    align="top"
+  />
+</a>
+
+<a href="https://github.com/cgoldberg">
+  <img
+    src="https://cgoldberg-github-readme-activity-graph.vercel.app/graph?username=cgoldberg&days=30&height=420&bg_color=ffffff&color=292d36&line=9ecbff&point=ec98a0&area=true&hide_border=true&custom_title=Daily%20GitHub%20Contributions%20%28Last%2030%20Days%29"
+    alt="GitHub Activity Graph"
+    align="top"
+  />
+</a>
