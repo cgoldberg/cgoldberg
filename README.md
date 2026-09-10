@@ -48,7 +48,7 @@
 
 ----
 
-### My GitHub Activity:
+### GitHub Activity
 
 [![Latest Commits](https://img.shields.io/badge/Latest-Commits-blue)](https://github.com/search?q=+author%3Acgoldberg&type=commits&s=committer-date)
 [![Latest Pull Requests](https://img.shields.io/badge/Latest-PRs-blue)](https://github.com/search?q=+involves%3Acgoldberg&type=pullrequests&s=created)
