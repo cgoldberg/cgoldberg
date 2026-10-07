@@ -10,7 +10,7 @@
       srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1600&pause=0&size=20&weight=400&color=58A6FF&width=500&height=110&vCenter=true&repeat=false&multiline=true&lines=Hi+%F0%9F%91%8B%2C+I%27m+Corey;-%20Human;-%20Open+Source+Developer;-%20Software+Test+Engineer"
     >
     <img
-      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1200&pause=0&size=20&weight=400&color=0550AE&width=500&height=110&vCenter=true&repeat=false&multiline=true&lines=Hi+%F0%9F%91%8B%2C+I%27m+Corey;-%20Human;-%20Open+Source+Developer;-%20Software+Test+Engineer"
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1000&pause=0&size=20&weight=400&color=0550AE&width=500&height=110&vCenter=true&repeat=false&multiline=true&lines=Hi+%F0%9F%91%8B%2C+I%27m+Corey;-%20Human;-%20Open+Source+Developer;-%20Software+Test+Engineer"
       alt="typing image"
     >
   </picture>
