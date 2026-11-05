@@ -1,4 +1,3 @@
-
 <a href="https://github.com/cgoldberg">
   <picture>
     <source
