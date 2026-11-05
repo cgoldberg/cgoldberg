@@ -56,7 +56,7 @@
 
 <a href="https://github.com/cgoldberg">
   <img
-    src="https://cgoldberg-github-stats-extended.vercel.app/api?username=cgoldberg&hide_rank=true&show_icons=true&include_all_commits=true"
+    src="https://cgoldberg-github-stats-extended.vercel.app/api?username=cgoldberg&hide_rank=true&show_icons=true"
     alt="GitHub Stats"
     align="top"
   />
