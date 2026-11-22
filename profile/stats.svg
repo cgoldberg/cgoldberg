@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 1883, Total Contributions: 6877, Total Commits  : 19857, PRs Created: 389, PRs Commented: 613, PRs Reviewed: 301, Issues Created: 111, Issues Commented: 978</desc>
+        <desc id="descId">Total Stars Earned: 1883, Total Contributions: 6879, Total Commits  : 19858, PRs Created: 387, PRs Commented: 613, PRs Reviewed: 301, Issues Created: 111, Issues Commented: 978</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 4.017922139234732;
+        stroke-dashoffset: 4.017922108670672;
       }
     }
   
@@ -203,7 +203,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_authored"
-      >389</text></a>
+      >387</text></a>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)"><a href="https://github.com/search?q=commenter%3Acgoldberg+-author%3Acgoldberg&amp;type=pullrequests">
